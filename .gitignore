@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+*.log
+*.db
+Debug/
+Release/
+*.DS_Store

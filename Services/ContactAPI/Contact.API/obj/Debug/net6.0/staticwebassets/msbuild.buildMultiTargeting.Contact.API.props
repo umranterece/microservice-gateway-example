@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Contact.API.props" />
-</Project>
