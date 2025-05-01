@@ -1,0 +1,11 @@
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/net6.0/Reservation.API.Models.deps.json
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/net6.0/Reservation.API.Models.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/net6.0/Reservation.API.Models.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.AssemblyInfoInputs.cache
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.AssemblyInfo.cs
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.csproj.CoreCompileInputs.cache
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/refint/Reservation.API.Models.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/Reservation.API.Models.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/net6.0/ref/Reservation.API.Models.dll

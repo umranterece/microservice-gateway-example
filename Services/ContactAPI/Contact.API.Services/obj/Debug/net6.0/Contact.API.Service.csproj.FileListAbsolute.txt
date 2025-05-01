@@ -1,0 +1,17 @@
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Service.deps.json
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Service.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Service.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Infrastructure.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Models.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Infrastructure.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/bin/Debug/net6.0/Contact.API.Models.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.csproj.AssemblyReference.cache
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.AssemblyInfoInputs.cache
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.AssemblyInfo.cs
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.csproj.CoreCompileInputs.cache
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact..D75C4077.Up2Date
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/refint/Contact.API.Service.dll
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/Contact.API.Service.pdb
+/Users/umranterece/Desktop/Projects/TechBuddy-/Microservices/Services/ContactAPI/Contact.API.Service/obj/Debug/net6.0/ref/Contact.API.Service.dll
